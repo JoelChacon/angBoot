@@ -1,0 +1,28 @@
+{
+  "name": "angBoot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelChacon/angBoot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelChacon/angBoot/issues"
+  },
+  "homepage": "https://github.com/JoelChacon/angBoot#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
